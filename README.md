@@ -8,7 +8,7 @@ MDS 및 HeatWave의 maintenance 시작과 종료에 대한 알람을 설정할 �
 - Developer Services > Application Integration > Notifications
 ![Create Topic](image-2.png)
 - 구독 생성 (Create a subscription with your email address)
-     - Subscription Topic  리스트박스에 위에서 만든 Notification Topic명을 선택해주고,구독(Subscriptions) 화면에 고객분 이메일을 추가하시면 됩니다. 이 때 해당 email 로 Confirm 메일이 발송됩니다. 해당 메일로 들어가셔서 링크를 클릭하셔서 confirm 하셔야 Ative 상태가 됩니다.
+     - Subscription Topic  리스트박스에 위에서 만든 Notification Topic명을 선택해주고,구독(Subscriptions) 화면에 고객분 이메일을 추가하시면 됩니다. 이 때 **해당 email 로 Confirm 메일이 발송됩니다. 해당 메일로 들어가셔서 링크를 클릭하셔서 confirm 하셔야 Ative 상태**가 됩니다.
 ![Create Subscription](image-3.png)
 
 ### 2. MDS/HeatWave Event Rule 생성
