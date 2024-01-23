@@ -14,10 +14,13 @@ MDS 및 HeatWave의 maintenance 시작과 종료에 대한 알람을 설정할 �
 
 OCI Console에서 햄버거 메뉴 선택 후 
 Observability & Management > Events Service > Rules 
+
+
 Events Service 설정
 - Create Rule (Rule 생성)
 ![Rele Conditions에 MySQL과 Event type 선택](image.png)
 - Set the Actions for mysql notifications
+    - Subscription Topic  리스트박스에 위에서 만든 Notification Topic명을 선택해주고,구독(Subscriptions) 화면에 고객분 이메일을 추가하시면 됩니다. 이 때 해당 email 로 Confirm 메일이 발송됩니다. 해당 메일로 들어가셔서 링크를 클릭하셔서 confirm 하셔야 Ative 상태가 됩니다.
 ![Actions-만들어 둔 notification 선택](image-1.png)
 
 
