@@ -1,14 +1,16 @@
 ## MDS_HeatWaveMaintenanceNotification
 How to subscribe MDS and HeatWave Maintenance Notification
+
+
 MDS 및 HeatWave의 maintenance 시작과 종료에 대한 알람을 설정할 수 있음(email)
 
-### 1. 노티를 위한 Topic 생성 (create a topic for the notification)
+### 1. 노티를 위한 Topic 및 Subscription 생성 (create a topic for the notification)
 - Developer Services > Application Integration > Notifications
 ![Create Topic](image-2.png)
-### 2. 구독 생성 (Create a subscription with your email address)
+- 구독 생성 (Create a subscription with your email address)
 ![Create Subscription](image-3.png)
 
-### 3. MDS/HeatWave Event Rule 생성
+### 2. MDS/HeatWave Event Rule 생성
 
 OCI Console에서 햄버거 메뉴 선택 후 
 Observability & Management > Events Service > Rules 
