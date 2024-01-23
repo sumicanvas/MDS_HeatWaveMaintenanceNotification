@@ -20,7 +20,7 @@ Observability & Management > Events Service > Rules
 
 Events Service 설정
 - Create Rule (Rule 생성)
-     - Rule 생성 시 rule 이름을 지정하고 아래의 Rule Condition의 Service name에 MySQL을 선택하면 MySQL 관려 event list가 Event Type 에 보여집니다. 원하시는 이벤트를 선택하시면 됩니다.
+     - Rule 생성 시 rule 이름을 지정하고 아래의 Rule Condition의 Service name에 MySQL을 선택하면 MySQL 관련 event list가 Event Type 에 보여집니다. 원하시는 이벤트를 선택하시면 됩니다.
 ![Rele Conditions에 MySQL과 Event type 선택](image.png)
 
 
