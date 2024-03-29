@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../hw-lakehouse"
+		}
+	],
+	"settings": {
+		"files.autoSave": "afterDelay"
+	}
+}
